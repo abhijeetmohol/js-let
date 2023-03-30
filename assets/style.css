@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1 ,p{
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(to top,#fff, #fcf3cf,#f9e79f,#f7dc6f);
+}
